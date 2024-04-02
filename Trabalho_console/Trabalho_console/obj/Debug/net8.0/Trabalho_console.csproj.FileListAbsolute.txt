@@ -1,0 +1,14 @@
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\bin\Debug\net8.0\Trabalho_console.exe
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\bin\Debug\net8.0\Trabalho_console.deps.json
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\bin\Debug\net8.0\Trabalho_console.runtimeconfig.json
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\bin\Debug\net8.0\Trabalho_console.dll
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\bin\Debug\net8.0\Trabalho_console.pdb
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\obj\Debug\net8.0\Trabalho_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\obj\Debug\net8.0\Trabalho_console.AssemblyInfoInputs.cache
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\obj\Debug\net8.0\Trabalho_console.AssemblyInfo.cs
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\obj\Debug\net8.0\Trabalho_console.csproj.CoreCompileInputs.cache
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\obj\Debug\net8.0\Trabalho_console.dll
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\obj\Debug\net8.0\refint\Trabalho_console.dll
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\obj\Debug\net8.0\Trabalho_console.pdb
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\obj\Debug\net8.0\Trabalho_console.genruntimeconfig.cache
+C:\Users\vinim\source\repos\Trabalho_console\Trabalho_console\obj\Debug\net8.0\ref\Trabalho_console.dll
